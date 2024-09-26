@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asorge29
 - 👀 I’m interested in software development and networking.
-- 🌱 I’m currently learning python and java.
+- 🌱 I’m currently learning python, javascript, typescript, and some c#.
 - 💞️ I’m looking to collaborate on fun projects to build my knowledge base.
 - 📫 How to reach me: reddit u/BassMaster629
 - 😄 Pronouns: he/him
