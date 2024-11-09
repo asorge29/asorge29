@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @asorge29
+- 👋 Hi, I’m Andy
 - 👀 I’m interested in software development and networking.
 - 🌱 I’m currently learning python, javascript, typescript, and some c#.
 - 💞️ I’m looking to collaborate on fun projects to build my knowledge base.
-- 📫 How to reach me: reddit u/BassMaster629
+- 📫 How to reach me: asorge29@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: MTB 4 ever 🤘
 <!---
